@@ -1,7 +1,7 @@
 Most used git commands are: git add.
 			    git status
 			    git commit -am "message"
-                            git push origin masters
+                            git push origin master
 ->First make new repository on github using public and ssh options
 
 ->then go to the folder you want to add and open git bash there by right click
@@ -21,3 +21,5 @@ Most used git commands are: git add.
 ->git commit -am "message" : used to save our changes to the local repository
 
 ->git push <name> <branch>: origin is default name and master is mostly used branch name
+
+-> git config --global user.name "Dipika Upadhaya"//if want to change author name
