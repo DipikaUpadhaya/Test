@@ -1,0 +1,4 @@
+most used git commands are: git add.
+			    git status
+			    git commit -am "message"
+                            git push origin masters
