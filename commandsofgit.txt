@@ -1,4 +1,23 @@
-most used git commands are: git add.
+Most used git commands are: git add.
 			    git status
 			    git commit -am "message"
                             git push origin masters
+->First make new repository on github using public and ssh options
+
+->then go to the folder you want to add and open git bash there by right click
+
+->ls: this commands list the files and folder under that specific directory
+
+->git init: this command create empty repository (.git folder is created )
+
+->git remote add <name (origin is used in most default case)> <url(copy the url git@github.com:.....)
+
+->git status : if sth appears in red text that means that file is not added in the repository
+
+->git add . : ready to add that file
+
+-> git status : now that file can be seen as green txt
+
+->git commit -am "message" : used to save our changes to the local repository
+
+->git push <name> <branch>: origin is default name and master is mostly used branch name
