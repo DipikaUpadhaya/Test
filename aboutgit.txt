@@ -1,2 +1,4 @@
 This file contain information about the git.
-this file must be in develop branch
+This file must be in develop branch.
+Now this file can also be in master branch.
+Testing for commit
