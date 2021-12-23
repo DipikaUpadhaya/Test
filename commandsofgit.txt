@@ -27,3 +27,5 @@
 -> .gitignore : this contain the file that are excluded from push
 
 ->git pull origin master : this command is used to pull from server to local
+
+->you can commit multiple times and directly push to server once.
