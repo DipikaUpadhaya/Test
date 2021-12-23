@@ -25,3 +25,5 @@
 -> git config --global user.name "Dipika Upadhaya"//if want to change author name
 
 -> .gitignore : this contain the file that are excluded from push
+
+->git pull origin master : this command is used to pull from server to local
