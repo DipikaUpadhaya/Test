@@ -1,4 +1,4 @@
-Most used git commands are: git add.
+1.Most used git commands are: git add.
 			    git status
 			    git commit -am "message"
                             git push origin master
@@ -23,3 +23,5 @@ Most used git commands are: git add.
 ->git push <name> <branch>: origin is default name and master is mostly used branch name
 
 -> git config --global user.name "Dipika Upadhaya"//if want to change author name
+
+-> .gitignore : this contain the file that are excluded from push
